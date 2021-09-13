@@ -1,0 +1,10 @@
+These are the instruction to run the program
+1. open the cmd and then enter this directory address to cmd by typing "cd [name of this folder]"
+2.install npm by typing "npm install" on the cmd
+3 before you run this program to an emulator, open an package.json on this dir
+4.go find the scripts -> json
+5.change host address from 192.168.1.2 to your current localhost address
+6.you can check it by type "ipconfig" on cmd
+7.after you change it, run this program by typing "expo start"
+8. after that, select run by android emulator for running and testing the program
+9. dont forget to run npm run json, in order to run the local json database
